@@ -1,6 +1,5 @@
 <url>
   <loc>https://bitter-bone.github.io/bitter-bone/</loc>
-  <!-- Removed lastmod -->
   <priority>1.00</priority>
 </url>
 <url>
@@ -11,3 +10,4 @@
   <loc>https://bitter-bone.github.io/bitter-bone/support/</loc>
   <priority>0.80</priority>
 </url>
+
